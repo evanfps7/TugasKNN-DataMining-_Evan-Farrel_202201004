@@ -1,0 +1,1 @@
+# TugasKNN-DataMining-_Evan-Farrel_202201004
